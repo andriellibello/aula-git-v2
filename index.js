@@ -1,1 +1,1 @@
-console.log("hellow world");
+console.log("sushi é melhor que pizza");
